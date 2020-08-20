@@ -1,1 +1,1 @@
-# Django-Server
+# Framework-Django-Book
