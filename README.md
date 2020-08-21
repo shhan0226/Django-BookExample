@@ -1,5 +1,5 @@
 # Framework-Django-Example
 
-"Django 한그릇 뚝딱" 책 예제 작성
+책 "Django 한그릇 뚝딱" 실습 자료
 
 ## 
